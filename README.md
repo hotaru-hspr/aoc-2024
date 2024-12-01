@@ -1,2 +1,3 @@
-# aoc-2024
-My solutions for Advent of Code '24
+### Cue in Mariah Careh...
+
+Solutions for Advent of Code '24, for my personal tracking.
