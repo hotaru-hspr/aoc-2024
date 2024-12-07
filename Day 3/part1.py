@@ -1,0 +1,1 @@
+print(sum(int(i)*int(j) for i,j in __import__('re', fromlist=['findall']).findall(r"mul\((\d{1,3}),(\d{1,3})\)",open(r"input.txt").read())))
